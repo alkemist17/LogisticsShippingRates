@@ -13,3 +13,5 @@ Code review
 All contributions will go through a code review process. Be open to feedback and be willing to make changes if necessary. Code reviews help maintain code quality and consistency.
 Thank you for your contribution!
 
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
